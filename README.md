@@ -4,4 +4,4 @@ Automatically sorts a dataset of pictures by day/night and moves them to the app
 A smoothening filter is applied to each picture and the sum of absolute differences 
 (pixel-by-pixel difference) is taken by OpenCV. 
 
-<img src="https://cdn.discordapp.com/attachments/679930095518875677/913481243318951936/tmpiwlrdyyr.PNG" width=1300 height =648>
+<img src="https://imgur.com/osNODds" width=1300 height =648>
